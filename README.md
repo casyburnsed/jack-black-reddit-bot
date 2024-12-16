@@ -1,5 +1,6 @@
 # jack-black-reddit-bot
 Jack Black Reddit Bot 🤘🔥🎸
+
 Project Summary
 The Jack Black Reddit Bot is a Python script that interacts with Reddit using the praw library. The bot monitors comments across all subreddits in real time and listens for the trigger phrase "alright". When it detects the phrase, it responds with a stylized Jack Black-inspired message: "Aaaaalriiiiighhht!!! 🤘🔥🎸". The bot includes safeguards such as tracking replied-to comments to avoid duplicate responses and adhering to Reddit’s API rules.
 
